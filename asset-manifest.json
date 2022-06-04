@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rubrica/static/css/main.e93f2599.css",
+    "main.js": "/Rubrica/static/js/main.69e32cf4.js",
+    "index.html": "/Rubrica/index.html",
+    "main.e93f2599.css.map": "/Rubrica/static/css/main.e93f2599.css.map",
+    "main.69e32cf4.js.map": "/Rubrica/static/js/main.69e32cf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93f2599.css",
+    "static/js/main.69e32cf4.js"
+  ]
+}
